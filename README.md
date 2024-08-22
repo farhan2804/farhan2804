@@ -28,7 +28,7 @@
 
 ## 💻 My Tech Stack:
 
-[![React.js, JavaScript, Node.js,MongoDB,html, css](https://skillicons.dev/icons?i=react,js,nodejs,mongo,html,css)](https://skillicons.dev)
+[![React.js, JavaScript, Node.js,Express.js,Java,MongoDB,Bootstrap5,html, css](https://skillicons.dev/icons?i=react,js,nodejs,mongo,bootstrap,html,css,expressjs,java)](https://skillicons.dev)
 
 
 
