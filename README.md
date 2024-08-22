@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**farhan2804/farhan2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hello World, I'm Farhan!](assets/banner.png)](https://github.com/farhan2804)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/10-farhan-mahmood/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:farhan.akp17el@gmail.com?subject=Hello%20Ayaz,%20From%20Github)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/formulaC__coder28)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@formulaC_Coder2804)
+
+
+
+</div>
+
+- 🔭 I’m currently working at [IBM](https://www.linkedin.com/company/ibm/) as a Senior Frontend Engineer.
+- 🌱 I’m passionate about Software Engineering.
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I read books, play Badminton and Football.
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![React.js, JavaScript, Node.js,MongoDB,html, css](https://skillicons.dev/icons?i=react,js,nodejs,mongo,html,css)](https://skillicons.dev)
+
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=farhan2804&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan2804&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
