@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Farhan!](./CrossZero.png)](https://github.com/farhan2804)
+[![Hello World, I'm Farhan!](image.png)](https://github.com/farhan2804)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/10-farhan-mahmood/) &nbsp;
