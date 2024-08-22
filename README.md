@@ -6,7 +6,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/10-farhan-mahmood/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:farhan.akp17el@gmail.com?subject=Hello%20Ayaz,%20From%20Github)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/formulaC__coder28)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@formulaC_Coder2804)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube.png)](https://www.youtube.com/@formulaC_Coder2804)
+
 
 
 
