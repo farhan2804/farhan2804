@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Farhan!](/CrossZero.png)](https://github.com/farhan2804)
+[![Hello World, I'm Farhan!](./CrossZero.png)](https://github.com/farhan2804)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/10-farhan-mahmood/) &nbsp;
@@ -12,10 +12,11 @@
 
 </div>
 
-- 🔭 I’m currently working at [IBM](https://www.linkedin.com/company/ibm/) as a Senior Frontend Engineer.
-- 🌱 I’m passionate about Software Engineering.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play Badminton and Football.
+- 🔭 I’m a recent graduate and a MERN stack developer.
+- 🌱 I’m passionate about Software Engineering and Software Development.
+- 🏆 I’m striving to enhance my skills and knowledge in these areas.
+- 📺 I’m working on growing my presence on YouTube and Instagram, where I teach web development and more.
+- ⚡ Fun fact: I enjoy reading books and playing football.
 
 <div align="center">
 
