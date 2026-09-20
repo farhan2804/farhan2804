@@ -97,20 +97,6 @@ I create programming and technology content covering:
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<p>
-    <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=farhan2804&show_icons=true&count_private=true&theme=dark" />
-    &nbsp;&nbsp;
-    <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan2804&layout=compact&theme=dark" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
 ### Build. Explain. Share. Repeat.
 
 </div>
