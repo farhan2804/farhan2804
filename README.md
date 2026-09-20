@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Farhan!](image.png)](https://github.com/farhan2804)
+[![Hello World, I'm Farhan!](github_profile_banner.png)](https://github.com/farhan2804)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/10-farhan-mahmood/)  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:farhan.akp17el@gmail.com?subject=Hello%20Farhan%20From%20GitHub)
