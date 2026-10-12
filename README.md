@@ -47,37 +47,6 @@ My engineering background in **Electronics, Automation, PLC/SCADA, and IoT** als
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI SQL Assistant
-
-A full-stack AI application that converts natural-language questions into SQL queries and executes them against a PostgreSQL database.
-
-**React • Spring Boot • PostgreSQL • LLM API • REST API**
-
----
-
-### ⚙️ Real-Time Equipment Failure Prediction Platform
-
-A predictive-maintenance platform combining real-time sensor data, machine learning, and a full-stack monitoring dashboard to identify potential equipment failures.
-
-**React • Spring Boot • Python • FastAPI • Machine Learning • PostgreSQL**
-
-**Architecture:**
-
-`React → Spring Boot → PostgreSQL → FastAPI ML Service`
-
----
-
-### 🎙️ PronounceAI
-
-An AI-powered pronunciation assessment platform that processes speech and provides pronunciation analysis and feedback.
-
-**React • Spring Boot • Python • FastAPI • Whisper • AI/ML**
-
----
 
 ## 🎥 FormulaC Coder
 
